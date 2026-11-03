@@ -829,7 +829,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.11514996, y: -0.00057939306, z: 0.000067163855, w: 0.993348}
+  m_LocalRotation: {x: 0.11514995, y: -0.0005793932, z: 0.00006716387, w: 0.993348}
   m_LocalPosition: {x: 0, y: 4.85, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1101,6 +1101,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   maxSteerAngle: 30
+  steerSpeed: 1000
   gripStrength: 750
   driveForce: 2000
 --- !u!54 &641930369
@@ -2543,7 +2544,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1074218358}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f9dfa5b682dcd46bda6128250e975f58, type: 3}
   m_Name: 
@@ -2587,7 +2588,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1074218358}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.115150005, y: -0.00057939294, z: 0.0000671639, w: 0.99334794}
+  m_LocalRotation: {x: 0.11514994, y: -0.00057939306, z: 0.00006716384, w: 0.993348}
   m_LocalPosition: {x: 0, y: 4.85, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
